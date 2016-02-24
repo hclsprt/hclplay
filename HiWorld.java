@@ -13,6 +13,7 @@ public class HiWorld {
 	{
 		System.out.println(s);
 	}
+	System.out.println("Hi again");
     }
 
 }
